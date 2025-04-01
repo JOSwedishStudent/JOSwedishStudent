@@ -1,9 +1,7 @@
 - 👋 Hi, I’m @JOSwedishStudent
-- 👀 I’m interested in football, golf, history, science and programming.
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: I have learned programming and web development with Khan Academy!
+- 👀 I’m interested in golf, mathematiks, science and programming.
+- 🌱 I’m currently learning linear algebra and calculus.
+- ⚡ Fun fact: I'm learning university math in the  seventh grade!
 
 <!---
 JOSwedishStudent/JOSwedishStudent is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
